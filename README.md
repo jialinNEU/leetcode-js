@@ -4,7 +4,7 @@ LeetCode 总是会在过一段时间将题解隐藏，每次想看看之前的�
 
 # 效果
 
-点击 [https://jialinNEU.github.io/leetcode/](https://ncdhz.github.io/leetcode/)即可查看效果.
+点击 [https://jialinNEU.github.io/leetcode-js/](https://jiainNEU.github.io/leetcode-js/)即可查看效果.
 
 # Next Step
 
